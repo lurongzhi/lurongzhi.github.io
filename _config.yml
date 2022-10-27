@@ -1,11 +1,10 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
-description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+title: 胖虎的博客
+tagline: Puff Blogs
+# email: your-email@domain.com
+# description: 
+baseurl: ""
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png

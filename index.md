@@ -1,12 +1,12 @@
 ---
-title: 胖虎的博客
+title: 胖虎的思绪基地
 # subtitle: This is the demo site for Bulma Clean Theme
 layout: page
 # callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+<!-- # Bulma Clean Theme demo website
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
@@ -51,4 +51,4 @@ This demo site showcases the available page layout options.
 
 JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
 
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme) -->

@@ -5,12 +5,14 @@ date:   2020-10-30 09:00:07
 categories: development
 description: "整理总结GAS各模块的负责功能和定位，从而理解GAS的设计思想"
 image: false
+show_sidebar: false
 published: true
 # canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
 ---
 
 学习和使用UE4有半年时间了，UE4给我的最大感觉就是功能庞大而且代码复杂，其中为了适配各种不同的业务场景，有很多代码逻辑分支。因此往往阅读完代码之后往往几天后就很容易忘记了。相信很多人也会和我有一样的遭遇，所以在这里把自己的笔记写下来，希望加深自己的记忆同时，也能给打算学习和深入了解UE4的同学作为一些参考。
 
+--- 
 
 # 概述
 GAS(**Gameplay Ability System**)是UE4官方自带的一个技能框架系统，框架整合了游戏中的战斗技能需求，涵盖了技能管理、技能逻辑、Buff、表现等功能，同时还提供了预测先行的功能。

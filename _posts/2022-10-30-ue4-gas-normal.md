@@ -59,10 +59,11 @@ GameplayCue很好地做到了逻辑和表现分离，但是CUE对象的实例化
 GAS里各对象的职责划分比较细致，并且大部分有明确的定位，很好地做到了逻辑、数据和表现的分离，并且还提供了预测功能。但是对于一个技能系统来说，GAS的代码量实在太多太复杂了，比如单单一个修改属性的需求，调用栈就有十几行。并且由于要适配各种模式下的运行，Standalone、DedicateServer,客户端和服务端均跑同一份代码，再加上本地预测功能，代码就显得分支很多，带来阅读的困难。只能说要研究透彻GAS还是任重道远。
 
 # 参考阅读
+
+[深入GAS架构设计](https://www.bilibili.com/video/BV1zD4y1X77M/?spm_id_from=333.999.0.0&vd_source=b76b5435b32df225d989897641a20b55) ,虚幻官方对于GAS设计的介绍
+
 [GASDocumentation](https://github.com/BillEliot/GASDocumentation_Chinese) ，GitHub上关于GAS的总结，很详细可以作为工具书参考
 
-
-[深入GAS架构设计 | EpicGames 大钊](https://www.bilibili.com/video/BV1zD4y1X77M/?spm_id_from=333.999.0.0&vd_source=b76b5435b32df225d989897641a20b55)
 
 
 
